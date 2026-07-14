@@ -243,3 +243,14 @@ footer{
     flex-wrap:wrap;
 
 }
+
+.manga-page{
+    max-width:800px;
+    margin:30px auto;
+}
+
+.manga-page img{
+    width:100%;
+    height:auto;
+    display:block;
+}
