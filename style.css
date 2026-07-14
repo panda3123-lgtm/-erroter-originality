@@ -216,3 +216,30 @@ footer{
     }
 
 }
+
+
+/* 各話ページ */
+
+.manga-box img{
+
+    width:100%;
+
+    display:block;
+
+    border-radius:10px;
+
+}
+
+.page-nav{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    margin-top:20px;
+
+    gap:15px;
+
+    flex-wrap:wrap;
+
+}
